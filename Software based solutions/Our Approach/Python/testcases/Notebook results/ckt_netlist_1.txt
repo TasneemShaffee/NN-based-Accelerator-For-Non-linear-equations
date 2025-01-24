@@ -1,0 +1,9 @@
+#ckt
+.op
+.model diode DI1N4004 (IS=1e-15 RS=0  BV=400 IBV=1m CJ0=10f
++M=0.5 N=1 TT=0)
+
+I1  1  0  type=idc idc=-1e-3
+R1 1 2 20
+D1 2 0 DI1N4004
+.end

@@ -1,0 +1,25 @@
+[*]
+[*] GTKWave Analyzer v3.3.71 (w)1999-2016 BSI
+[*] Mon Mar 19 14:36:10 2018
+[*]
+[dumpfile] "E:\Graduation_Project\EmulatorGP2018\fpga\design_1\tb\computation\tb\computation\py_scripts\testing.dump"
+[savefile] "E:\Graduation_Project\EmulatorGP2018\fpga\design_1\tb\computation\lut_config.gtkw"
+[timestart] 697
+[size] 1536 841
+[pos] -35 -35
+*-6.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb.
+[treeopen] tb.UUT.
+[sst_width] 197
+[signals_width] 211
+[sst_expanded] 1
+[sst_vpaned_height] 238
+@22
+tb.UUT.INPUT_SCALER[31:0]
+tb.UUT.MEM_OUT[31:0]
+@24
+tb.UUT.lut_address[9:0]
+@28
+tb.UUT.CLK
+[pattern_trace] 1
+[pattern_trace] 0
